@@ -21,7 +21,7 @@
 **🚀 Recent Work**
 - Shipped Pomodoro upgrade to Better Todo App
 - Building BreatheX (AI fitness platform)
-- Developed create-convex-next CLI tool
+- Developing create-convex-next CLI tool
 
 </td>
 </tr>
