@@ -21,11 +21,9 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-<img src="./assets/convex-logo.png" alt="Convex" height="28"/>
-
-![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/-Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+<img src="./assets/convex-logo.png" alt="Convex" height="28"/>
+![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
 ## What I Can Do For You (Right Now)
 
@@ -34,7 +32,7 @@ I can help you with:
 - Fix TypeScript errors in Next.js / Convex / Clerk
 - Add small features to your existing app (like I did in Better Todo)
 - Fix UI responsiveness issues
-- Add authentication (Clerk)
+- Add authentication with Webhooks (Clerk)
 - Set up Convex DB models, queries, mutations
 - Connect payments (Razorpay / Stripe-ready)
 - Deploy your app on Vercel (production setup)
@@ -51,12 +49,12 @@ You can hire me for:
 
 - Fix TypeScript errors in your Next.js app
 - Add a new feature (component, form, section)
-- Add Clerk auth + RBAC
+- Add Clerk auth with webhooks
 - Add Convex actions & real-time updates
 - Fix layout, styling, responsive issues
 - Solve Convex schema/query bugs
 - Add API Route / Server Action
-- Deploy your app to Vercel correctly
+- Deploy your app to Vercel correctly with your custom domain
 
 *Perfect for founders & early-stage builders*
 
@@ -67,27 +65,30 @@ You can hire me for:
 - Added focus/break cycles to existing Pomodoro
 - Cleaned logic, mutations & UI flow
 - PR merged & featured by Wayne
+- **[View Issue](https://github.com/waynesutton/better-todo/issues/1)** | **[View PR](https://github.com/waynesutton/better-todo/pull/2)** | **[Live App](https://better-todo.co/)** | **[Wayne's Repost on X](https://x.com/AmanSha01749335/status/1989354731500892277)**
 
 ### Convex Backend Repository
 
 - Fixed CLI error scenario
 - Submitted PR currently under review
 - Official team confirmed contribution
+- **[View Issue](https://github.com/get-convex/convex-backend/issues/28)** | **[View PR](https://github.com/get-convex/convex-backend/pull/247)**
 
 These give me production-level confidence working in real SaaS codebases.
 
-## Currently Building: BreatheX (Live Soon)
+## Currently Building
 
-Modern AI fitness platform using:
+### BreatheX - AI Fitness Platform
+Modern AI-powered fitness platform | **[Live Demo](https://www.breathex.co.in/)** | **[Repo](https://github.com/Aman1506-web/breathex)**
 
-- Next.js 15
-- Convex backend
-- Clerk auth
-- Tailwind + GSAP
-- Razorpay
-- AI integrations
+- Next.js 15, Convex, Clerk, Tailwind, GSAP, Dodopayments
+- **Working on:** User fitness dashboard with AI, admin analytics dashboard, payment integration
 
-This project is the core of my development journey right now.
+### create-convex-next - CLI Tool
+Next.js 15 project scaffolding CLI | **[Repo](https://github.com/Aman1506-web/create-convex-next)**
+
+- Automated setup with Tailwind v4, Shadcn UI, Convex/Clerk/DodoPayments
+- Currently in active development
 
 ## Looking To Work With
 
@@ -100,8 +101,7 @@ This project is the core of my development journey right now.
 ## GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Aman1506-web&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman1506-web&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1506-web&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## Connect With Me
