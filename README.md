@@ -22,7 +22,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=convex" alt="Convex" height="28"/>
+<img src="./assets/convex-logo.png" alt="Convex" height="28"/>
 
 ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/-Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
