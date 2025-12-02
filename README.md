@@ -17,9 +17,15 @@
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,shadcn,nodejs,convex,vercel,git,github" />
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=convex" alt="Convex" height="28"/>
+
+![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/-Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ## What I Can Do For You (Right Now)
 
